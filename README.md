@@ -2,4 +2,4 @@
 
 Modelagem feita do UML de um Iphone em Java, para o curso de Java Cloud Native da DIO
 
-[imagem da UML](imagens/IphoneUML.png)
+<img src="imagens/IphoneUML.png">
